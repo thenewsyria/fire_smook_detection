@@ -88,7 +88,7 @@ Special thanks to:
 ## 📬 Contact
 For queries or collaboration:
 - **Email**: omar123321123mohamed@gmail.com
-- **GitHub**: [([https://github.com/your-username](https://github.com/thenewsyria/))](https://github.com/thenewsyria/)
+- **GitHub**: https://github.com/thenewsyria/
 ```
 
 ---
