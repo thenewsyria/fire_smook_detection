@@ -87,8 +87,8 @@ Special thanks to:
 
 ## 📬 Contact
 For queries or collaboration:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: omar123321123mohamed@gmail.com
+- **GitHub**: [[your-username]([https://github.com/your-username](https://github.com/thenewsyria/))](https://github.com/thenewsyria/)
 ```
 
 ---
